@@ -15,7 +15,7 @@
 // To ensure predicible serial behaviour, the internal oscillator needs to be 'tuned'. This sketch assumes that the oscillator has been tuned with the 'Save_to_EEPROM' TinyTuner sketch. More information on TinyTuner
 // can be found here : http://forum.arduino.cc/index.php/topic,8553.0.html
 //
-// Ben Morrice January 2016
+// Ben Morrice July 2016
 //
 //
 //                  Pinout
